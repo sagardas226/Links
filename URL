@@ -1,3 +1,5 @@
 https://docs.datastax.com/en/developer/java-driver/3.0/manual/ssl/
 
 how to use ca file to connect cassandra in ssl for java
+
+https://stackoverflow.com/questions/17619871/access-https-rest-service-using-spring-resttemplate
